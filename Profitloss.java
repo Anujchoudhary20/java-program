@@ -4,9 +4,9 @@ import java.util.Scanner;
 public class Profitloss {
 	public static void main(String[] args) {
 		 Scanner sc = new Scanner(System.in);
-		 System.out.println("Enter first number:");
+		 System.out.println("Enter cost price:");
 		 int cp = sc.nextInt();
-		 System.out.println("Enter Secand  number:");
+		 System.out.println("Enter seling price :");
 		 int sp = sc.nextInt();
 		if(sp==cp) {
 			System.out.print("You have no profit and Loss");}
