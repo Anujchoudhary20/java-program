@@ -10,19 +10,11 @@ public class Mathardaanuj {
 		double s= anuj(r);
 		System.out.println("Area of the circle: " +s);
 	System.out.println("Thanks For watching ");
-
-	
-	
-	
-	
-	
 	}
+	
 		public static double anuj(double r) {
 			double Area = (r*r)*3.1416;
 			return Area;
-			
-		
-		
 		
 	}
 	
